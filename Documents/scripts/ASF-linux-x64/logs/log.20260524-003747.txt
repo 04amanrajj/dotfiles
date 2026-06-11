@@ -1,0 +1,98 @@
+2026-05-23 22:50:39|ArchiSteamFarm-51018|INFO|ASF|InitCore() ArchiSteamFarm V6.3.5.1 (linux-x64/c12cd28055fb40f9afaaddd7cce74cf2 | .NET 10.0.7; linux-x64; Ubuntu 24.04.4 LTS) in [/home/amanrajj/Documents/scripts/ASF-linux-x64]
+2026-05-23 22:50:39|ArchiSteamFarm-51018|INFO|ASF|InitCore() Copyright © 2015-2026 JustArchiNET
+2026-05-23 22:50:39|ArchiSteamFarm-51018|INFO|ASF|InitGlobalDatabaseAndServices() Initializing GlobalDatabase...
+2026-05-23 22:50:40|ArchiSteamFarm-51018|INFO|ASF|InitPlugins() Initializing Plugins...
+2026-05-23 22:50:40|ArchiSteamFarm-51018|INFO|ASF|InitPlugins() Loading MobileAuthenticatorPlugin V6.3.5.1...
+2026-05-23 22:50:40|ArchiSteamFarm-51018|INFO|ASF|InitPlugins() MobileAuthenticatorPlugin has been loaded successfully!
+2026-05-23 22:50:40|ArchiSteamFarm-51018|INFO|ASF|InitPlugins() Loading ItemsMatcherPlugin V6.3.5.1...
+2026-05-23 22:50:40|ArchiSteamFarm-51018|INFO|ASF|InitPlugins() ItemsMatcherPlugin has been loaded successfully!
+2026-05-23 22:50:40|ArchiSteamFarm-51018|INFO|ASF|InitPlugins() Loading SteamTokenDumperPlugin V6.3.5.1...
+2026-05-23 22:50:40|ArchiSteamFarm-51018|INFO|ASF|InitPlugins() SteamTokenDumperPlugin has been loaded successfully!
+2026-05-23 22:50:40|ArchiSteamFarm-51018|INFO|ASF|UpdateAndRestart() ASF will automatically check for new versions every 1 day.
+2026-05-23 22:50:40|ArchiSteamFarm-51018|INFO|ASF|UpdateASF() Checking for new version...
+2026-05-23 22:50:41|ArchiSteamFarm-51018|INFO|ASF|UpdateASF() Local version: 6.3.5.1 | Remote version: 6.3.5.1
+2026-05-23 22:50:41|ArchiSteamFarm-51018|INFO|ASF|Load() Loading STD global cache...
+2026-05-23 22:50:41|ArchiSteamFarm-51018|INFO|ASF|Load() Validating STD global cache integrity...
+2026-05-23 22:50:41|ArchiSteamFarm-51018|INFO|ASF|OnASFInit() SteamTokenDumperPlugin is currently disabled according to your configuration. If you'd like to help SteamDB in data submission, please check out our wiki.
+2026-05-23 22:50:41|ArchiSteamFarm-51018|INFO|ASF|StartInteractiveConsole() Interactive console is now active, type 'c' in order to enter command mode.
+2026-05-23 22:50:41|ArchiSteamFarm-51018|INFO|ASF|StartInternally() Starting IPC server...
+2026-05-23 22:50:42|ArchiSteamFarm-51018|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:1242
+2026-05-23 22:50:42|ArchiSteamFarm-51018|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2026-05-23 22:50:42|ArchiSteamFarm-51018|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2026-05-23 22:50:42|ArchiSteamFarm-51018|INFO|Microsoft.Hosting.Lifetime|Content root path: /home/amanrajj/Documents/scripts/ASF-linux-x64
+2026-05-23 22:50:42|ArchiSteamFarm-51018|INFO|ASF|StartInternally() IPC server ready!
+2026-05-23 22:50:43|ArchiSteamFarm-51018|INFO|Aman Main|Start() Starting...
+2026-05-23 22:50:43|ArchiSteamFarm-51018|INFO|Aman Main|Connect() Connecting...
+2026-05-23 22:50:44|ArchiSteamFarm-51018|INFO|Aman Main|OnConnected() Connected to Steam!
+2026-05-23 22:50:44|ArchiSteamFarm-51018|INFO|Aman Main|OnConnected() Logging in...
+2026-05-23 22:50:45|ArchiSteamFarm-51018|INFO|Aman Main|OnLoggedOn() Successfully logged on as 76561199018050483/amanrajj.
+2026-05-23 22:50:45|ArchiSteamFarm-51018|INFO|Aman Main|Init() Success!
+2026-05-23 22:50:46|ArchiSteamFarm-51018|INFO|Aman Main|IsAnythingToFarm() Checking first badge page...
+2026-05-23 22:51:02|ArchiSteamFarm-51018|INFO|Aman Main|Farm() We have a total of 2 games (6 cards) left to farm (~3 hours, 24 minutes remaining)...
+2026-05-23 22:51:02|ArchiSteamFarm-51018|INFO|Aman Main|Farm() Chosen farming algorithm: Complex
+2026-05-23 22:51:03|ArchiSteamFarm-51018|INFO|Aman Main|FarmMultiple() Now farming: 1608230, 40800
+2026-05-23 22:51:03|ArchiSteamFarm-51018|INFO|Aman Main|FarmHours() Still farming: 1608230, 40800
+2026-05-23 23:06:18|ArchiSteamFarm-51018|INFO|Aman Main|FarmHours() Still farming: 1608230, 40800
+2026-05-23 23:21:33|ArchiSteamFarm-51018|INFO|Aman Main|FarmHours() Stopped farming: 1608230, 40800
+2026-05-23 23:21:33|ArchiSteamFarm-51018|INFO|Aman Main|Farm() Finished farming games: 1608230, 40800
+2026-05-23 23:21:34|ArchiSteamFarm-51018|INFO|Aman Main|FarmSolo() Now farming: 1608230 (Planet of Lana)
+2026-05-23 23:21:35|ArchiSteamFarm-51018|INFO|Aman Main|ShouldFarm() Farming status for 1608230 (Planet of Lana): 3 cards remaining
+2026-05-23 23:21:35|ArchiSteamFarm-51018|INFO|Aman Main|FarmCards() Still farming: 1608230 (Planet of Lana)
+2026-05-23 23:36:51|ArchiSteamFarm-51018|INFO|Aman Main|ShouldFarm() Farming status for 1608230 (Planet of Lana): 3 cards remaining
+2026-05-23 23:36:51|ArchiSteamFarm-51018|INFO|Aman Main|FarmCards() Still farming: 1608230 (Planet of Lana)
+2026-05-23 23:51:07|ArchiSteamFarm-51018|INFO|Aman Main|ShouldFarm() Farming status for 1608230 (Planet of Lana): 2 cards remaining
+2026-05-23 23:51:07|ArchiSteamFarm-51018|INFO|Aman Main|FarmCards() Still farming: 1608230 (Planet of Lana)
+2026-05-24 00:01:45|ArchiSteamFarm-51018|WARN|Aman Main|RefreshChanges() System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at ArchiSteamFarm.Steam.Integration.SteamPICSChanges.RefreshChanges(Object state)
+2026-05-24 00:02:46|ArchiSteamFarm-51018|WARN|Aman Main|RefreshChanges() System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at ArchiSteamFarm.Steam.Integration.SteamPICSChanges.RefreshChanges(Object state)
+2026-05-24 00:03:47|ArchiSteamFarm-51018|WARN|Aman Main|RefreshChanges() System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at ArchiSteamFarm.Steam.Integration.SteamPICSChanges.RefreshChanges(Object state)
+2026-05-24 00:04:48|ArchiSteamFarm-51018|WARN|Aman Main|RefreshChanges() System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at ArchiSteamFarm.Steam.Integration.SteamPICSChanges.RefreshChanges(Object state)
+2026-05-24 00:05:49|ArchiSteamFarm-51018|WARN|Aman Main|RefreshChanges() System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at ArchiSteamFarm.Steam.Integration.SteamPICSChanges.RefreshChanges(Object state)
+2026-05-24 00:05:49|ArchiSteamFarm-51018|WARN|ASF|RefreshChanges() Failed!
+2026-05-24 00:06:23|ArchiSteamFarm-51018|INFO|Aman Main|ShouldFarm() Farming status for 1608230 (Planet of Lana): 2 cards remaining
+2026-05-24 00:06:23|ArchiSteamFarm-51018|INFO|Aman Main|FarmCards() Still farming: 1608230 (Planet of Lana)
+2026-05-24 00:07:43|ArchiSteamFarm-51018|WARN|Aman Main|HeartBeat() Connection to Steam Network lost. Reconnecting...
+2026-05-24 00:07:43|ArchiSteamFarm-51018|INFO|Aman Main|OnDisconnected() Disconnected from Steam!
+2026-05-24 00:07:43|ArchiSteamFarm-51018|INFO|Aman Main|FarmCards() Stopped farming: 1608230 (Planet of Lana)
+2026-05-24 00:07:44|ArchiSteamFarm-51018|INFO|Aman Main|StopFarming() Farming stopped!
+2026-05-24 00:07:48|ArchiSteamFarm-51018|INFO|Aman Main|OnDisconnected() Reconnecting...
+2026-05-24 00:07:48|ArchiSteamFarm-51018|INFO|Aman Main|Connect() Connecting...
+2026-05-24 00:07:49|ArchiSteamFarm-51018|INFO|Aman Main|OnConnected() Connected to Steam!
+2026-05-24 00:07:49|ArchiSteamFarm-51018|INFO|Aman Main|OnConnected() Logging in...
+2026-05-24 00:07:50|ArchiSteamFarm-51018|INFO|Aman Main|OnLoggedOn() Successfully logged on as 76561199018050483/amanrajj.
+2026-05-24 00:07:50|ArchiSteamFarm-51018|INFO|Aman Main|Init() Success!
+2026-05-24 00:07:55|ArchiSteamFarm-51018|INFO|Aman Main|IsAnythingToFarm() Checking first badge page...
+2026-05-24 00:07:56|ArchiSteamFarm-51018|INFO|Aman Main|Farm() We have a total of 2 games (4 cards) left to farm (~2 hours remaining)...
+2026-05-24 00:07:56|ArchiSteamFarm-51018|INFO|Aman Main|Farm() Chosen farming algorithm: Complex
+2026-05-24 00:07:56|ArchiSteamFarm-51018|INFO|Aman Main|FarmSolo() Now farming: 40800 (Super Meat Boy)
+2026-05-24 00:07:57|ArchiSteamFarm-51018|INFO|Aman Main|ShouldFarm() Farming status for 40800 (Super Meat Boy): 2 cards remaining
+2026-05-24 00:07:57|ArchiSteamFarm-51018|INFO|Aman Main|FarmCards() Still farming: 40800 (Super Meat Boy)
+2026-05-24 00:22:51|ArchiSteamFarm-51018|INFO|Aman Main|OnLoggedOff() Logged off of Steam: LoggedInElsewhere
+2026-05-24 00:22:51|ArchiSteamFarm-51018|INFO|Aman Main|OnDisconnected() Disconnected from Steam!
+2026-05-24 00:22:51|ArchiSteamFarm-51018|INFO|Aman Main|FarmCards() Stopped farming: 40800 (Super Meat Boy)
+2026-05-24 00:22:52|ArchiSteamFarm-51018|INFO|Aman Main|StopFarming() Farming stopped!
+2026-05-24 00:22:56|ArchiSteamFarm-51018|INFO|Aman Main|OnDisconnected() Reconnecting...
+2026-05-24 00:22:56|ArchiSteamFarm-51018|INFO|Aman Main|Connect() Connecting...
+2026-05-24 00:22:56|ArchiSteamFarm-51018|INFO|Aman Main|OnConnected() Connected to Steam!
+2026-05-24 00:22:56|ArchiSteamFarm-51018|INFO|Aman Main|OnConnected() Logging in...
+2026-05-24 00:22:57|ArchiSteamFarm-51018|INFO|Aman Main|OnLoggedOn() Successfully logged on as 76561199018050483/amanrajj.
+2026-05-24 00:22:57|ArchiSteamFarm-51018|INFO|Aman Main|Init() Success!
+2026-05-24 00:22:57|ArchiSteamFarm-51018|INFO|Aman Main|IsAnythingToFarm() Checking first badge page...
+2026-05-24 00:22:57|ArchiSteamFarm-51018|INFO|Aman Main|CheckOccupationStatus() Account is currently being used: ASF will resume farming when it's free...
+2026-05-24 00:22:58|ArchiSteamFarm-51018|INFO|Aman Main|StartFarming() Playing is currently unavailable, we'll try again later!
+2026-05-24 00:31:28|ArchiSteamFarm-51018|INFO|Aman Main|CheckOccupationStatus() Account is no longer occupied: farming process resumed!
+2026-05-24 00:31:28|ArchiSteamFarm-51018|INFO|Aman Main|IsAnythingToFarm() Checking first badge page...
+2026-05-24 00:31:30|ArchiSteamFarm-51018|INFO|Aman Main|StartFarming() Waiting up to 1 minute to ensure that we're free to start farming...
+2026-05-24 00:32:28|ArchiSteamFarm-51018|INFO|Aman Main|Farm() We have a total of 2 games (4 cards) left to farm (~2 hours remaining)...
+2026-05-24 00:32:28|ArchiSteamFarm-51018|INFO|Aman Main|Farm() Chosen farming algorithm: Complex
+2026-05-24 00:32:29|ArchiSteamFarm-51018|INFO|Aman Main|FarmSolo() Now farming: 1608230 (Planet of Lana)
+2026-05-24 00:32:30|ArchiSteamFarm-51018|INFO|Aman Main|ShouldFarm() Farming status for 1608230 (Planet of Lana): 2 cards remaining
+2026-05-24 00:32:30|ArchiSteamFarm-51018|INFO|Aman Main|FarmCards() Still farming: 1608230 (Planet of Lana)
+2026-05-24 00:36:46|ArchiSteamFarm-51018|WARN|Aman Main|RefreshChanges() System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at ArchiSteamFarm.Steam.Integration.SteamPICSChanges.RefreshChanges(Object state)
+2026-05-24 00:37:47|ArchiSteamFarm-51018|WARN|Aman Main|RefreshChanges() System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at ArchiSteamFarm.Steam.Integration.SteamPICSChanges.RefreshChanges(Object state)

@@ -1,0 +1,122 @@
+2026-05-23 16:18:51|ArchiSteamFarm-35441|INFO|ASF|InitCore() ArchiSteamFarm V6.3.5.1 (linux-x64/c12cd28055fb40f9afaaddd7cce74cf2 | .NET 10.0.7; linux-x64; Ubuntu 24.04.4 LTS) in [/home/amanrajj/Documents/scripts/ASF-linux-x64]
+2026-05-23 16:18:51|ArchiSteamFarm-35441|INFO|ASF|InitCore() Copyright © 2015-2026 JustArchiNET
+2026-05-23 16:18:52|ArchiSteamFarm-35441|INFO|ASF|InitGlobalDatabaseAndServices() Initializing GlobalDatabase...
+2026-05-23 16:18:52|ArchiSteamFarm-35441|INFO|ASF|InitPlugins() Initializing Plugins...
+2026-05-23 16:18:53|ArchiSteamFarm-35441|INFO|ASF|InitPlugins() Loading MobileAuthenticatorPlugin V6.3.5.1...
+2026-05-23 16:18:53|ArchiSteamFarm-35441|INFO|ASF|InitPlugins() MobileAuthenticatorPlugin has been loaded successfully!
+2026-05-23 16:18:53|ArchiSteamFarm-35441|INFO|ASF|InitPlugins() Loading ItemsMatcherPlugin V6.3.5.1...
+2026-05-23 16:18:53|ArchiSteamFarm-35441|INFO|ASF|InitPlugins() ItemsMatcherPlugin has been loaded successfully!
+2026-05-23 16:18:53|ArchiSteamFarm-35441|INFO|ASF|InitPlugins() Loading SteamTokenDumperPlugin V6.3.5.1...
+2026-05-23 16:18:53|ArchiSteamFarm-35441|INFO|ASF|InitPlugins() SteamTokenDumperPlugin has been loaded successfully!
+2026-05-23 16:18:53|ArchiSteamFarm-35441|INFO|ASF|UpdateAndRestart() ASF will automatically check for new versions every 1 day.
+2026-05-23 16:18:53|ArchiSteamFarm-35441|INFO|ASF|UpdateASF() Checking for new version...
+2026-05-23 16:18:54|ArchiSteamFarm-35441|INFO|ASF|UpdateASF() Local version: 6.3.5.1 | Remote version: 6.3.5.1
+2026-05-23 16:18:54|ArchiSteamFarm-35441|INFO|ASF|Load() Loading STD global cache...
+2026-05-23 16:18:54|ArchiSteamFarm-35441|INFO|ASF|Load() Validating STD global cache integrity...
+2026-05-23 16:18:54|ArchiSteamFarm-35441|INFO|ASF|OnASFInit() SteamTokenDumperPlugin is currently disabled according to your configuration. If you'd like to help SteamDB in data submission, please check out our wiki.
+2026-05-23 16:18:54|ArchiSteamFarm-35441|INFO|ASF|StartInteractiveConsole() Interactive console is now active, type 'c' in order to enter command mode.
+2026-05-23 16:18:54|ArchiSteamFarm-35441|INFO|ASF|StartInternally() Starting IPC server...
+2026-05-23 16:18:55|ArchiSteamFarm-35441|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:1242
+2026-05-23 16:18:55|ArchiSteamFarm-35441|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2026-05-23 16:18:55|ArchiSteamFarm-35441|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2026-05-23 16:18:55|ArchiSteamFarm-35441|INFO|Microsoft.Hosting.Lifetime|Content root path: /home/amanrajj/Documents/scripts/ASF-linux-x64
+2026-05-23 16:18:55|ArchiSteamFarm-35441|INFO|ASF|StartInternally() IPC server ready!
+2026-05-23 16:18:55|ArchiSteamFarm-35441|INFO|Aman Main|Start() Starting...
+2026-05-23 16:18:55|ArchiSteamFarm-35441|INFO|Aman Main|Connect() Connecting...
+2026-05-23 16:18:56|ArchiSteamFarm-35441|INFO|Aman Main|OnConnected() Connected to Steam!
+2026-05-23 16:18:56|ArchiSteamFarm-35441|INFO|Aman Main|OnConnected() Logging in...
+2026-05-23 16:18:57|ArchiSteamFarm-35441|INFO|Aman Main|OnLoggedOn() Successfully logged on as 76561199018050483/amanrajj.
+2026-05-23 16:18:58|ArchiSteamFarm-35441|INFO|Aman Main|Init() Success!
+2026-05-23 16:18:59|ArchiSteamFarm-35441|INFO|Aman Main|IsAnythingToFarm() Checking first badge page...
+2026-05-23 16:19:14|ArchiSteamFarm-35441|INFO|Aman Main|Farm() We have a total of 4 games (12 cards) left to farm (~6 hours, 47 minutes, 59 seconds remaining)...
+2026-05-23 16:19:14|ArchiSteamFarm-35441|INFO|Aman Main|Farm() Chosen farming algorithm: Complex
+2026-05-23 16:19:15|ArchiSteamFarm-35441|INFO|Aman Main|FarmSolo() Now farming: 601150 (Devil May Cry 5)
+2026-05-23 16:19:16|ArchiSteamFarm-35441|INFO|Aman Main|ShouldFarm() Farming status for 601150 (Devil May Cry 5): 1 cards remaining
+2026-05-23 16:19:16|ArchiSteamFarm-35441|INFO|Aman Main|FarmCards() Still farming: 601150 (Devil May Cry 5)
+2026-05-23 16:34:32|ArchiSteamFarm-35441|INFO|Aman Main|ShouldFarm() Farming status for 601150 (Devil May Cry 5): 1 cards remaining
+2026-05-23 16:34:32|ArchiSteamFarm-35441|INFO|Aman Main|FarmCards() Still farming: 601150 (Devil May Cry 5)
+2026-05-23 16:49:19|ArchiSteamFarm-35441|INFO|Aman Main|ShouldFarm() Farming status for 601150 (Devil May Cry 5): 0 cards remaining
+2026-05-23 16:49:19|ArchiSteamFarm-35441|INFO|Aman Main|FarmCards() Stopped farming: 601150 (Devil May Cry 5)
+2026-05-23 16:49:19|ArchiSteamFarm-35441|INFO|Aman Main|FarmSolo() Finished farming: 601150 (Devil May Cry 5) after 5 hours, 54 minutes of playtime!
+2026-05-23 16:49:19|ArchiSteamFarm-35441|INFO|Aman Main|FarmSolo() Now farming: 379720 (DOOM)
+2026-05-23 16:49:20|ArchiSteamFarm-35441|INFO|Aman Main|ShouldFarm() Farming status for 379720 (DOOM): 5 cards remaining
+2026-05-23 16:49:20|ArchiSteamFarm-35441|INFO|Aman Main|FarmCards() Still farming: 379720 (DOOM)
+2026-05-23 17:04:37|ArchiSteamFarm-35441|INFO|Aman Main|ShouldFarm() Farming status for 379720 (DOOM): 5 cards remaining
+2026-05-23 17:04:37|ArchiSteamFarm-35441|INFO|Aman Main|FarmCards() Still farming: 379720 (DOOM)
+2026-05-23 17:19:25|ArchiSteamFarm-35441|INFO|Aman Main|ShouldFarm() Farming status for 379720 (DOOM): 4 cards remaining
+2026-05-23 17:19:25|ArchiSteamFarm-35441|INFO|Aman Main|FarmCards() Still farming: 379720 (DOOM)
+2026-05-23 17:34:41|ArchiSteamFarm-35441|INFO|Aman Main|ShouldFarm() Farming status for 379720 (DOOM): 4 cards remaining
+2026-05-23 17:34:41|ArchiSteamFarm-35441|INFO|Aman Main|FarmCards() Still farming: 379720 (DOOM)
+2026-05-23 17:49:24|ArchiSteamFarm-35441|INFO|Aman Main|ShouldFarm() Farming status for 379720 (DOOM): 3 cards remaining
+2026-05-23 17:49:24|ArchiSteamFarm-35441|INFO|Aman Main|FarmCards() Still farming: 379720 (DOOM)
+2026-05-23 18:04:41|ArchiSteamFarm-35441|INFO|Aman Main|ShouldFarm() Farming status for 379720 (DOOM): 3 cards remaining
+2026-05-23 18:04:41|ArchiSteamFarm-35441|INFO|Aman Main|FarmCards() Still farming: 379720 (DOOM)
+2026-05-23 18:19:24|ArchiSteamFarm-35441|INFO|Aman Main|ShouldFarm() Farming status for 379720 (DOOM): 2 cards remaining
+2026-05-23 18:19:24|ArchiSteamFarm-35441|INFO|Aman Main|FarmCards() Still farming: 379720 (DOOM)
+2026-05-23 18:34:40|ArchiSteamFarm-35441|INFO|Aman Main|ShouldFarm() Farming status for 379720 (DOOM): 2 cards remaining
+2026-05-23 18:34:40|ArchiSteamFarm-35441|INFO|Aman Main|FarmCards() Still farming: 379720 (DOOM)
+2026-05-23 18:49:24|ArchiSteamFarm-35441|INFO|Aman Main|ShouldFarm() Farming status for 379720 (DOOM): 1 cards remaining
+2026-05-23 18:49:24|ArchiSteamFarm-35441|INFO|Aman Main|FarmCards() Still farming: 379720 (DOOM)
+2026-05-23 18:59:58|ArchiSteamFarm-35441|WARN|Aman Main|RefreshChanges() System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at ArchiSteamFarm.Steam.Integration.SteamPICSChanges.RefreshChanges(Object state)
+2026-05-23 19:00:59|ArchiSteamFarm-35441|WARN|Aman Main|RefreshChanges() System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at ArchiSteamFarm.Steam.Integration.SteamPICSChanges.RefreshChanges(Object state)
+2026-05-23 19:02:00|ArchiSteamFarm-35441|WARN|Aman Main|RefreshChanges() System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at ArchiSteamFarm.Steam.Integration.SteamPICSChanges.RefreshChanges(Object state)
+2026-05-23 19:03:01|ArchiSteamFarm-35441|WARN|Aman Main|RefreshChanges() System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at ArchiSteamFarm.Steam.Integration.SteamPICSChanges.RefreshChanges(Object state)
+2026-05-23 19:04:02|ArchiSteamFarm-35441|WARN|Aman Main|RefreshChanges() System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at ArchiSteamFarm.Steam.Integration.SteamPICSChanges.RefreshChanges(Object state)
+2026-05-23 19:04:02|ArchiSteamFarm-35441|WARN|ASF|RefreshChanges() Failed!
+2026-05-23 19:04:41|ArchiSteamFarm-35441|INFO|Aman Main|ShouldFarm() Farming status for 379720 (DOOM): 1 cards remaining
+2026-05-23 19:04:41|ArchiSteamFarm-35441|INFO|Aman Main|FarmCards() Still farming: 379720 (DOOM)
+2026-05-23 19:04:55|ArchiSteamFarm-35441|WARN|Aman Main|HeartBeat() Connection to Steam Network lost. Reconnecting...
+2026-05-23 19:04:55|ArchiSteamFarm-35441|INFO|Aman Main|OnDisconnected() Disconnected from Steam!
+2026-05-23 19:04:55|ArchiSteamFarm-35441|INFO|Aman Main|FarmCards() Stopped farming: 379720 (DOOM)
+2026-05-23 19:04:56|ArchiSteamFarm-35441|INFO|Aman Main|StopFarming() Farming stopped!
+2026-05-23 19:05:00|ArchiSteamFarm-35441|INFO|Aman Main|OnDisconnected() Reconnecting...
+2026-05-23 19:05:00|ArchiSteamFarm-35441|INFO|Aman Main|Connect() Connecting...
+2026-05-23 19:05:01|ArchiSteamFarm-35441|INFO|Aman Main|OnConnected() Connected to Steam!
+2026-05-23 19:05:01|ArchiSteamFarm-35441|INFO|Aman Main|OnConnected() Logging in...
+2026-05-23 19:05:02|ArchiSteamFarm-35441|INFO|Aman Main|OnLoggedOn() Successfully logged on as 76561199018050483/amanrajj.
+2026-05-23 19:05:02|ArchiSteamFarm-35441|INFO|Aman Main|Init() Success!
+2026-05-23 19:05:07|ArchiSteamFarm-35441|INFO|Aman Main|IsAnythingToFarm() Checking first badge page...
+2026-05-23 19:05:09|ArchiSteamFarm-35441|INFO|Aman Main|Farm() We have a total of 3 games (7 cards) left to farm (~4 hours, 17 minutes, 59 seconds remaining)...
+2026-05-23 19:05:09|ArchiSteamFarm-35441|INFO|Aman Main|Farm() Chosen farming algorithm: Complex
+2026-05-23 19:05:10|ArchiSteamFarm-35441|INFO|Aman Main|FarmSolo() Now farming: 379720 (DOOM)
+2026-05-23 19:05:11|ArchiSteamFarm-35441|INFO|Aman Main|ShouldFarm() Farming status for 379720 (DOOM): 1 cards remaining
+2026-05-23 19:05:11|ArchiSteamFarm-35441|INFO|Aman Main|FarmCards() Still farming: 379720 (DOOM)
+2026-05-23 19:20:27|ArchiSteamFarm-35441|INFO|Aman Main|ShouldFarm() Farming status for 379720 (DOOM): 1 cards remaining
+2026-05-23 19:20:27|ArchiSteamFarm-35441|INFO|Aman Main|FarmCards() Still farming: 379720 (DOOM)
+2026-05-23 19:35:14|ArchiSteamFarm-35441|INFO|Aman Main|ShouldFarm() Farming status for 379720 (DOOM): 0 cards remaining
+2026-05-23 19:35:14|ArchiSteamFarm-35441|INFO|Aman Main|FarmCards() Stopped farming: 379720 (DOOM)
+2026-05-23 19:35:14|ArchiSteamFarm-35441|INFO|Aman Main|FarmSolo() Finished farming: 379720 (DOOM) after 5 hours, 30 minutes, 1 second of playtime!
+2026-05-23 19:35:16|ArchiSteamFarm-35441|INFO|Aman Main|FarmMultiple() Now farming: 40800, 1608230
+2026-05-23 19:35:16|ArchiSteamFarm-35441|INFO|Aman Main|FarmHours() Still farming: 40800, 1608230
+2026-05-23 19:49:58|ArchiSteamFarm-35441|WARN|Aman Main|RefreshChanges() System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at ArchiSteamFarm.Steam.Integration.SteamPICSChanges.RefreshChanges(Object state)
+2026-05-23 19:50:31|ArchiSteamFarm-35441|INFO|Aman Main|FarmHours() Still farming: 40800, 1608230
+2026-05-23 19:50:59|ArchiSteamFarm-35441|WARN|Aman Main|RefreshChanges() System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at ArchiSteamFarm.Steam.Integration.SteamPICSChanges.RefreshChanges(Object state)
+2026-05-23 19:52:00|ArchiSteamFarm-35441|WARN|Aman Main|RefreshChanges() System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at ArchiSteamFarm.Steam.Integration.SteamPICSChanges.RefreshChanges(Object state)
+2026-05-23 19:53:01|ArchiSteamFarm-35441|WARN|Aman Main|RefreshChanges() System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at ArchiSteamFarm.Steam.Integration.SteamPICSChanges.RefreshChanges(Object state)
+2026-05-23 19:54:02|ArchiSteamFarm-35441|WARN|Aman Main|RefreshChanges() System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at ArchiSteamFarm.Steam.Integration.SteamPICSChanges.RefreshChanges(Object state)
+2026-05-23 19:54:02|ArchiSteamFarm-35441|WARN|ASF|RefreshChanges() Failed!
+2026-05-23 19:55:55|ArchiSteamFarm-35441|WARN|Aman Main|HeartBeat() Connection to Steam Network lost. Reconnecting...
+2026-05-23 19:55:55|ArchiSteamFarm-35441|INFO|Aman Main|OnDisconnected() Disconnected from Steam!
+2026-05-23 19:55:55|ArchiSteamFarm-35441|INFO|Aman Main|FarmHours() Stopped farming: 40800, 1608230
+2026-05-23 19:55:56|ArchiSteamFarm-35441|INFO|Aman Main|StopFarming() Farming stopped!
+2026-05-23 19:56:00|ArchiSteamFarm-35441|INFO|Aman Main|OnDisconnected() Reconnecting...
+2026-05-23 19:56:00|ArchiSteamFarm-35441|INFO|Aman Main|Connect() Connecting...
+2026-05-23 19:56:01|ArchiSteamFarm-35441|INFO|Aman Main|OnConnected() Connected to Steam!
+2026-05-23 19:56:01|ArchiSteamFarm-35441|INFO|Aman Main|OnConnected() Logging in...
+2026-05-23 19:56:02|ArchiSteamFarm-35441|INFO|Aman Main|OnLoggedOn() Successfully logged on as 76561199018050483/amanrajj.
+2026-05-23 19:56:02|ArchiSteamFarm-35441|INFO|Aman Main|Init() Success!
+2026-05-23 19:56:07|ArchiSteamFarm-35441|INFO|Aman Main|IsAnythingToFarm() Checking first badge page...
+2026-05-23 19:56:08|ArchiSteamFarm-35441|INFO|Aman Main|Farm() We have a total of 2 games (6 cards) left to farm (~3 hours, 47 minutes, 59 seconds remaining)...
+2026-05-23 19:56:08|ArchiSteamFarm-35441|INFO|Aman Main|Farm() Chosen farming algorithm: Complex
+2026-05-23 19:56:09|ArchiSteamFarm-35441|INFO|Aman Main|FarmMultiple() Now farming: 40800, 1608230
+2026-05-23 19:56:09|ArchiSteamFarm-35441|INFO|Aman Main|FarmHours() Still farming: 40800, 1608230
